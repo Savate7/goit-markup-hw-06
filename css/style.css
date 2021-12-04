@@ -559,7 +559,16 @@ footer .conteiner .social a:focus  {
   border-radius: 4px;
   background: #2F303A;
   padding-left: 16px;
+  font-size: 16px;
+  line-height: 0.8;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  font-style: normal;
+  font-weight: normal;
+  color: rgba(255, 255, 255, 0.6);
 }
+
 
 .soc_input_mail::placeholder {
   font-size: 16px;

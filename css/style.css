@@ -680,7 +680,6 @@ color: rgba(255, 255, 255, 0.6);
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--black-color);
-  padding-bottom: 2px;
 }
 
 .modal_form_input, .modal_form_area {
@@ -706,8 +705,8 @@ color: rgba(255, 255, 255, 0.6);
 
 .input_for_icon {
   position: relative;
-  
-  }
+}
+
 
 .input_icon {
   position: absolute;
@@ -722,8 +721,7 @@ color: rgba(255, 255, 255, 0.6);
   line-height: 1.785;
   letter-spacing: 0.01em;
   color: var(--second-text-color);
-  padding-top: 10px;
-  padding-bottom: 4px;
+  padding-top: 10px; 
   display: block;
 }
 
@@ -771,7 +769,7 @@ color: rgba(255, 255, 255, 0.6);
 
  .modal_checkbox{
    position: relative;
-   padding-top: 20px;
+   padding-top: 18px;
    padding-left: 12px;
  }
 .modal_form_checkbox_input{
